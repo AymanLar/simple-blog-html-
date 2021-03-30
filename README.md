@@ -1,2 +1,2 @@
 # neatFly
-safe and reliable messaging app.
+safe and reliable messaging app:smile: .
