@@ -1,3 +1,3 @@
-# Blog
+# Free Blog
 
-my blog :smile: .
+simple blog :smile: .
